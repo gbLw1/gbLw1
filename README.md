@@ -25,4 +25,4 @@ internal sealed class gbL : Developer
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=gblw1&theme=react&show_icons=true&include_all_commits=true&hide=issues&line_height=24)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbLw1&layout=compact&theme=react&card_width=280)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbLw1&layout=compact&theme=react&card_width=290)
