@@ -13,7 +13,7 @@ internal sealed class gbL : Developer
   
     public string? Nickname { get; set;} = "gbL";
   
-    public int Age { get; set; } = 22;
+    public int Age { get; set; } = 23;
   
     public string? Occupation { get; set; } = "Trainee Developer at OnFriday Technologies";
   
