@@ -18,7 +18,7 @@ internal sealed class gbL : Developer
   
     public int Age { get; set; } = 23;
   
-    public string? Occupation { get; set; } = "Trainee Developer at OnFriday Technologies";
+    public string? Occupation { get; set; } = "Junior Developer at OnFriday Technologies";
   
     public string[]? MyHobbies { get; set; } = { "Coding", "Play games", "Listen to music" };
   
@@ -32,7 +32,7 @@ internal sealed class gbL : Developer
 
 <!-- Icons: https://github.com/tandpfun/skill-icons#readme -->
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,postman,js,nodejs,vue,docker,git,pwsh)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,js,docker,materialui,php,mysql,java,sqlite)](https://skillicons.dev)
 
 <!--
 <p align="center">
@@ -41,6 +41,18 @@ internal sealed class gbL : Developer
   </a>
 </p>
 -->
+
+---
+
+#### My daily tools
+
+[![My Tools](https://skillicons.dev/icons?i=azure,vscode,visualstudio,postman,git,bash,pwsh)](https://skillicons.dev)
+
+---
+
+#### Learning
+
+[![Learning](https://skillicons.dev/icons?i=nodejs,ts,vue,react)](https://skillicons.dev)
 
 ---
 
