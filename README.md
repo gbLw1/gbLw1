@@ -33,6 +33,7 @@ internal sealed class gbL : Developer
 <!-- 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,js,docker,materialui,php,mysql,java,sqlite)](https://skillicons.dev)
 -->
+<div style="display:flex; align-items: center; justify-content:start;">
 
 <img src="assets/dotnet.png" title=".NET" alt=".NET" width="50" />
 
@@ -56,6 +57,8 @@ internal sealed class gbL : Developer
 
 <img src="assets/mui.png" title="MaterialUI" alt="MaterialUI" width="56" />
 
+</div>
+
 ---
 
 #### My daily tools
@@ -63,6 +66,7 @@ internal sealed class gbL : Developer
 <!--
 [![My Tools](https://skillicons.dev/icons?i=azure,vscode,visualstudio,postman,git,bash,pwsh)](https://skillicons.dev)
 -->
+<div style="display:flex; align-items: center; justify-content:start;">
 
 <img src="assets/azure.png" title="Microsoft Azure" alt="Microsoft Azure" width="50" />
 
@@ -74,12 +78,16 @@ internal sealed class gbL : Developer
 
 <img src="assets/postman.png" title="Postman" alt="Postman" width="50" />
 
+</div>
+
 ---
 
 #### Learning
 <!-- 
 [![Learning](https://skillicons.dev/icons?i=nodejs,ts,vue,react)](https://skillicons.dev)
 -->
+
+<div style="display:flex; align-items: center; justify-content:start;">
 
 <img src="assets/nodejs.png" title="NodeJS" alt="NodeJS" width="58" />
 
@@ -88,6 +96,8 @@ internal sealed class gbL : Developer
 <img src="assets/vue.png" title="VueJS" alt="VueJS" width="55" />
 
 <img src="assets/react.png" title="React" alt="React" width="55" />
+
+</div>
 
 ---
 
