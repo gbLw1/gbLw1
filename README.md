@@ -33,31 +33,28 @@ internal sealed class gbL : Developer
 <!-- 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,js,docker,materialui,php,mysql,java,sqlite)](https://skillicons.dev)
 -->
-<div style="display:flex; align-items: center; justify-content:start;">
 
-<img src="assets/dotnet.png" title="dotnet" alt="dotnet" width="50" />
+<img src="assets/dotnet.png" title=".NET" alt=".NET" width="50" />
 
-<img src="assets/csharp.png" title="csharp" alt="csharp" width="46" />
+<img src="assets/csharp.png" title="C#" alt="C#" width="46" />
 
-<img src="assets/blazor.png" title="blazor" alt="blazor" width="57" />
+<img src="assets/blazor.png" title="Blazor" alt="Blazor" width="57" />
 
 <img src="assets/sqlserver.png" title="SQL Server" alt="SQL Server" width="57" />
 
-<img src="assets/js.png" title="js" alt="js" width="50" />
+<img src="assets/js.png" title="JavaScript" alt="JavaScript" width="50" />
 
-<img src="assets/docker.png" title="docker" alt="docker" width="65" />
+<img src="assets/docker.png" title="Docker" alt="Docker" width="65" />
 
-<img src="assets/php.png" title="php" alt="php" width="65" />
+<img src="assets/php.png" title="PHP" alt="PHP" width="65" />
 
-<img src="assets/mysql.png" title="mysql" alt="mysql" width="65" />
+<img src="assets/mysql.png" title="MySQL" alt="MySQL" width="65" />
 
-<img src="assets/android.png" title="android java" alt="android java" width="54" />
+<img src="assets/android.png" title="Android (Java)" alt="Android (Java)" width="54" />
 
-<img src="assets/sqlite.png" title="sqlite" alt="sqlite" width="52" />
+<img src="assets/sqlite.png" title="SQLite" alt="SQLite" width="52" />
 
 <img src="assets/mui.png" title="MaterialUI" alt="MaterialUI" width="56" />
-
-</div>
 
 ---
 
@@ -66,7 +63,6 @@ internal sealed class gbL : Developer
 <!--
 [![My Tools](https://skillicons.dev/icons?i=azure,vscode,visualstudio,postman,git,bash,pwsh)](https://skillicons.dev)
 -->
-<div style="display:flex; align-items: center; justify-content:start;">
 
 <img src="assets/azure.png" title="Microsoft Azure" alt="Microsoft Azure" width="50" />
 
@@ -78,16 +74,12 @@ internal sealed class gbL : Developer
 
 <img src="assets/postman.png" title="Postman" alt="Postman" width="50" />
 
-</div>
-
 ---
 
 #### Learning
 <!-- 
 [![Learning](https://skillicons.dev/icons?i=nodejs,ts,vue,react)](https://skillicons.dev)
 -->
-
-<div style="display:flex; align-items: center; justify-content:start;">
 
 <img src="assets/nodejs.png" title="NodeJS" alt="NodeJS" width="58" />
 
@@ -96,8 +88,6 @@ internal sealed class gbL : Developer
 <img src="assets/vue.png" title="VueJS" alt="VueJS" width="55" />
 
 <img src="assets/react.png" title="React" alt="React" width="55" />
-
-</div>
 
 ---
 
