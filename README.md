@@ -93,9 +93,9 @@ internal sealed class gbL : Developer
 
 <img src="assets/ts.png" title="TypeScript" alt="TypeScript" width="50" />
 
-<img src="assets/vue.png" title="VueJS" alt="VueJS" width="55" />
-
 <img src="assets/react.png" title="React" alt="React" width="55" />
+
+<img src="assets/next.png" title="Next.js" alt="Next.js" width="55" />
 
 </div>
 
