@@ -43,6 +43,12 @@ internal sealed class gbL : Developer
 
 <img src="assets/sqlserver.png" title="SQL Server" alt="SQL Server" width="57" />
 
+<img src="assets/nodejs.png" title="NodeJS" alt="NodeJS" width="58" />
+
+<img src="assets/react.png" title="React" alt="React" width="55" />
+
+<img src="assets/ts.png" title="TypeScript" alt="TypeScript" width="50" />
+
 <img src="assets/js.png" title="JavaScript" alt="JavaScript" width="50" />
 
 <img src="assets/docker.png" title="Docker" alt="Docker" width="65" />
@@ -88,12 +94,6 @@ internal sealed class gbL : Developer
 -->
 
 <div style="display:flex; align-items: center; justify-content:start;">
-
-<img src="assets/nodejs.png" title="NodeJS" alt="NodeJS" width="58" />
-
-<img src="assets/ts.png" title="TypeScript" alt="TypeScript" width="50" />
-
-<img src="assets/react.png" title="React" alt="React" width="55" />
 
 <img src="assets/next.png" title="Next.js" alt="Next.js" width="55" />
 
