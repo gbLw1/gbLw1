@@ -1,105 +1,30 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Gabriel</h1>
+<h3 align="center">Some guy who's always learning and improving</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gblw1&label=Profile%20views&color=0e75b6&style=flat" alt="gblw1" /> </p>
+<img align="right" alt="Coding" width="400" src="./assets/programmer.gif" />
 
-[![Steam](https://img.shields.io/badge/Steam-grey?logo=steam)](https://steamcommunity.com/id/gblw1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/gblw1/)
-![ProfileViews](https://komarev.com/ghpvc/?username=gblw1)
+- 🔭 I’m currently working on **Front-end projects with React and Nextjs**
 
----
+- 🌱 I’m currently learning **Go, Next.js**
 
-#### About
+- 💬 Ask me about **.NET C# (full stack)**
 
-```csharp
-internal sealed class gbL : Developer
-{
-    public string Name { get; } = "Gabriel";
-  
-    public string? Nickname { get; set;} = "gbL";
-  
-    public int Age { get; set; } = 23;
-  
-    public string? Occupation { get; set; } = "Junior Developer at OnFriday Technologies";
-  
-    public string[]? MyHobbies { get; set; } = { "Coding", "Play games", "Listen to music" };
-  
-    public string currentlyLearning { get; set; } = ".NET with C#";
-}
-```
+- 📫 How to reach me **<gabrielhenrique2504@gmail.com>**
 
----
+- ⚡ Fun fact **Learning golang 'cause of... yes**
 
-#### I know some
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gblw1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gblw1" height="30" width="40" /></a>
+<a href="https://fb.com/gblw1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gblw1" height="30" width="40" /></a>
+<a href="https://instagram.com/gblw1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gblw1" height="30" width="40" /></a>
+</p>
 
-<!-- Icons: https://github.com/tandpfun/skill-icons#readme -->
-<!-- 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,js,docker,materialui,php,mysql,java,sqlite)](https://skillicons.dev)
--->
-<div style="display:flex; align-items: center; justify-content:start;">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
 
-<img src="assets/dotnet.png" title=".NET" alt=".NET" width="50" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gblw1&show_icons=true&locale=en&layout=compact" alt="gblw1" /></p>
 
-<img src="assets/csharp.png" title="C#" alt="C#" width="46" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gblw1&show_icons=true&locale=en" alt="gblw1" /></p>
 
-<img src="assets/blazor.png" title="Blazor" alt="Blazor" width="57" />
-
-<img src="assets/sqlserver.png" title="SQL Server" alt="SQL Server" width="57" />
-
-<img src="assets/nodejs.png" title="NodeJS" alt="NodeJS" width="58" />
-
-<img src="assets/react.png" title="React" alt="React" width="55" />
-
-<img src="assets/ts.png" title="TypeScript" alt="TypeScript" width="50" />
-
-<img src="assets/js.png" title="JavaScript" alt="JavaScript" width="50" />
-
-<img src="assets/docker.png" title="Docker" alt="Docker" width="65" />
-
-<img src="assets/php.png" title="PHP" alt="PHP" width="65" />
-
-<img src="assets/mysql.png" title="MySQL" alt="MySQL" width="65" />
-
-<img src="assets/android.png" title="Android (Java)" alt="Android (Java)" width="54" />
-
-<img src="assets/sqlite.png" title="SQLite" alt="SQLite" width="52" />
-
-<img src="assets/mui.png" title="MaterialUI" alt="MaterialUI" width="56" />
-
-</div>
-
----
-
-#### My daily tools
-
-<!--
-[![My Tools](https://skillicons.dev/icons?i=azure,vscode,visualstudio,postman,git,bash,pwsh)](https://skillicons.dev)
--->
-<div style="display:flex; align-items: center; justify-content:start;">
-
-<img src="assets/azure.png" title="Microsoft Azure" alt="Microsoft Azure" width="50" />
-
-<img src="assets/vs.png" title="Visual Studio" alt="Visual Studio" width="50" />
-
-<img src="assets/vsc.png" title="Visual Studio Code" alt="Visual Studio Code" width="53" />
-
-<img src="assets/git.png" title="Git" alt="Git" width="50" />
-
-<img src="assets/postman.png" title="Postman" alt="Postman" width="50" />
-
-</div>
-
----
-
-#### Learning
-<!-- 
-[![Learning](https://skillicons.dev/icons?i=nodejs,ts,vue,react)](https://skillicons.dev)
--->
-
-<div style="display:flex; align-items: center; justify-content:start;">
-
-<img src="assets/next.png" title="Next.js" alt="Next.js" width="55" />
-
-</div>
-
----
-
-![Stats](https://github-readme-stats.vercel.app/api?username=gblw1&theme=react&show_icons=true&include_all_commits=true&hide=issues&line_height=24)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbLw1&layout=compact&theme=react&card_width=290)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gblw1&" alt="gblw1" /></p>
