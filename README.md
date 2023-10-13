@@ -1,9 +1,9 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://rishavchanda.io)
+[![MasterHead](./assets/banner.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A guy who's always learning new things and improving</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gblw1&label=Profile%20views&color=0e75b6&style=flat" alt="gblw1" /> </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
+<img align="right" alt="Coding" width="400" src="./assets/programmer.gif" />
 
 - 🔭 I’m currently working on **Front-end projects with React and Nextjs**
 
