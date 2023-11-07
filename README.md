@@ -5,15 +5,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gblw1&label=Profile%20views&color=0e75b6&style=flat" alt="gblw1" /> </p>
 <img align="right" alt="Coding" width="400" src="./assets/programmer.gif" />
 
-- 🔭 I’m currently working on **Front-end projects with React and Nextjs**
+- 🔭 I’m currently working on **Back-end devepment with .NET C#**
 
-- 🌱 I’m currently learning **Go & Next.js**
+- 🌱 I’m currently learning **Go and some react 'cause why not**
 
 - 💬 Ask me about **.NET C# (full stack)**
 
 - 📫 How to reach me **<gabrielhenrique2504@gmail.com>**
 
-- ⚡ Fun fact **Learning golang 'cause of... yes**
+- ⚡ Fun fact: **I use neovim btw**
 
 ---
 
