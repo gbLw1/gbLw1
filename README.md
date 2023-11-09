@@ -68,7 +68,7 @@
 
 <p>&nbsp;<img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=gblw1&show_icons=true&locale=en" alt="gblw1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gblw1" alt="streak" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=gblw1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gblw1/gblw1/output/github-contribution-grid-snake-dark.svg">
