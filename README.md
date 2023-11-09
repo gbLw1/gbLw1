@@ -64,9 +64,9 @@
 
 ---
 
-<p><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=gblw1&show_icons=true&locale=en&layout=compact" alt="gblw1" /></p>
+<p><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=gblw1&show_icons=true&locale=en&layout=compact&theme=dark" alt="gblw1" /></p>
 
-<p>&nbsp;<img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=gblw1&show_icons=true&locale=en" alt="gblw1" /></p>
+<p>&nbsp;<img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=gblw1&show_icons=true&locale=en&theme=dark" alt="gblw1" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=gblw1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak" /></p>
 
