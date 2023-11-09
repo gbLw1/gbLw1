@@ -2,9 +2,9 @@
 
 <img align="right" alt="Coding" width="400" src="./assets/programmer.gif" />
 
-- 🔭 I’m currently working on **Back-end devepment with .NET C#**
-- 🌱 I’m currently learning **Go and some React 'cause u never know**
-- 💬 Ask me about **.NET C# (full stack)**
+- 🔭 I’m currently working on **Back-end web development (C#)**
+- 🌱 I’m currently learning **C#, Go, TypeScript**
+- 💬 Ask me about **.NET web development**
 - 📫 How to reach me **<gabrielhenrique2504@gmail.com>**
 - ⚡ Fun fact: **I use neovim btw**
 
