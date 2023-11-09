@@ -60,9 +60,9 @@
 ---
 
 <div align="center">
-<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs?username=gblw1&show_icons=true&locale=en&layout=compact&theme=dark" alt="gblw1" />
-<img height="130" src="https://github-readme-stats.vercel.app/api?username=gblw1&show_icons=true&locale=en&theme=dark" alt="gblw1" />
-<img height="130" src="https://streak-stats.demolab.com/?user=gblw1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak" />
+<img height="124" src="https://github-readme-stats.vercel.app/api/top-langs?username=gblw1&show_icons=true&locale=en&layout=compact&theme=dark" alt="gblw1" />
+<img height="124" src="https://github-readme-stats.vercel.app/api?username=gblw1&show_icons=true&locale=en&theme=dark" alt="gblw1" />
+<img height="124" src="https://streak-stats.demolab.com/?user=gblw1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak" />
 </div>
 
 <picture>
