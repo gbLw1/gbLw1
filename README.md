@@ -1,21 +1,20 @@
-[![MasterHead](./assets/banner.png)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A guy who's always learning new things and improving</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gblw1&label=Profile%20views&color=0e75b6&style=flat" alt="gblw1" /> </p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=gblw1&label=Profile%20views&color=0e75b6&style=flat" alt="gblw1" /> </p>
+
 <img align="right" alt="Coding" width="400" src="./assets/programmer.gif" />
 
 - 🔭 I’m currently working on **Back-end devepment with .NET C#**
 
 - 🌱 I’m currently learning **Go and some react 'cause why not**
 
-- 💬 Ask me about **.NET C# (full stack)**
+<!-- - 💬 Ask me about **.NET C# (full stack)** -->
 
 - 📫 How to reach me **<gabrielhenrique2504@gmail.com>**
 
 - ⚡ Fun fact: **I use neovim btw**
 
----
 
 <h3 align="left">Connect with me:</h3>
 
@@ -25,7 +24,6 @@
   <a href="https://instagram.com/gblw1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gblw1" height="30" width="40" /></a>
 </p>
 
----
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -64,11 +62,11 @@
 
 ---
 
-<p><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=gblw1&show_icons=true&locale=en&layout=compact&theme=dark" alt="gblw1" /></p>
-
-<p>&nbsp;<img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=gblw1&show_icons=true&locale=en&theme=dark" alt="gblw1" /></p>
-
-<p><img align="center" src="https://streak-stats.demolab.com/?user=gblw1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak" /></p>
+<div align="center">
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=gblw1&show_icons=true&locale=en&layout=compact&theme=dark" alt="gblw1" />
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=gblw1&show_icons=true&locale=en&theme=dark" alt="gblw1" />
+<img height="140" src="https://streak-stats.demolab.com/?user=gblw1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gblw1/gblw1/output/github-contribution-grid-snake-dark.svg">
