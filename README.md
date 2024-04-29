@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **C#, Go, TypeScript**
 - 💬 Ask me about **.NET web development**
 - 📫 How to reach me **<gabrielhenrique2504@gmail.com>**
-- ⚡ Fun fact: **I use neovim btw**
+- ⚡ Fun fact: **I use arch linux and neovim btw**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -32,6 +32,7 @@
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/apps-neovim-icon-1024x1024-cvzervfu.png" alt="neovim" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/archlinux/archlinux-original.svg" alt="arch linux" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
