@@ -1,23 +1,22 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
+### Gabriel Grassi
+
+Just a guy who is always looking for new challenges and interested in understanding how things work. My goal is to transform this knowledge into software that helps the world.
 
 <img align="right" alt="Coding" width="400" src="./assets/programmer.gif" />
 
-- 🔭 I’m currently working on **Back-end web development (C#)**
-- 🌱 I’m currently learning **C#, Go, TypeScript**
-- 💬 Ask me about **.NET web development**
-- 📫 How to reach me **<gabrielhenrique2504@gmail.com>**
-- ⚡ Fun fact: **I use arch linux and neovim btw**
+#### Things I'm currently working on:
 
+- 🌐 Developing some web applications for a startup
+- 🎓 Learning new programming languages and technologies
+- 🤖 Building a robot to help me with my daily tasks
+- 📈 Improving my skills in data analysis and machine learning
 
-<h3 align="left">Connect with me:</h3>
+#### Contact information:
 
-<p align="left">
-  <a href="https://linkedin.com/in/gblw1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gblw1" height="30" width="40" /></a>
-  <a href="https://fb.com/gblw1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gblw1" height="30" width="40" /></a>
-  <a href="https://instagram.com/gblw1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gblw1" height="30" width="40" /></a>
-</p>
+- Email: `gbl.grassi <at> gmail.com`
+- Discord: `garbage#0538`
 
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -40,7 +39,7 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/en-US/products/functions/" target="_blank" rel="noreferrer"><img src="https://azure.microsoft.com/svghandler/functions/?width=320&height=320" alt="docker" width="40" height="40"/></a>
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"><img src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2019/04/BrandBlazor_big_with_border.png" alt="mssql" width="40" height="40"/></a>
@@ -57,6 +56,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/></a>
 </p>
+-->
 
 ---
 
