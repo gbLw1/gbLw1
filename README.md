@@ -2,7 +2,7 @@
 
 Just a guy who is always looking for new challenges and interested in understanding how things work. My goal is to transform this knowledge into software that helps the world.
 
-<img align="right" alt="Coding" width="300" src="./assets/programmer.gif" />
+<img align="right" alt="Coding" width="400" src="./assets/programmer.gif" />
 
 #### Things I'm currently working on:
 
