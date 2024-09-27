@@ -9,7 +9,10 @@ Just a guy who is always looking for new challenges and interested in understand
 - 🌐 Developing some web applications for a startup
 - 🎓 Learning new programming languages and technologies
 - 🤖 Building a robot to help me with my daily tasks
-- 📈 Improving my skills in data analysis and machine learning
+
+#### Certifications:
+
+- 📜 [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/99784108-8d97-4665-8639-d1b6d3ac797e)
 
 #### Contact information:
 
