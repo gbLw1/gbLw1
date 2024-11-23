@@ -8,7 +8,8 @@ Just a guy who is always looking for new challenges and interested in understand
 
 - 🌐 Developing some web applications for a startup
 - 🎓 Learning new programming languages and technologies
-- 🤖 Building a robot to help me with my daily tasks
+- 🤖 Building robots to help me with my daily tasks
+- 📚 Improving my knowledge in microservices
 
 #### Certifications:
 
