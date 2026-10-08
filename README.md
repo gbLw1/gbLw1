@@ -1,15 +1,17 @@
 ### Gabriel Grassi
 
-Just a guy who is always looking for new challenges and interested in understanding how things work. My goal is to transform this knowledge into software that helps the world.
+**Tech Lead | Software Engineer**
+
+I turn business needs into software, from the first conversation with a client to production. I lead a team of 10+ developers, guide architecture and delivery, and stay hands-on with code. My experience spans frontend, backend, integrations, and multi-tenant SaaS products.
 
 <img align="right" alt="Coding" width="400" src="./assets/programmer.gif" />
 
-#### Things I'm currently working on:
+#### What I bring to a team:
 
-- 🌐 Developing some web applications for a startup
-- 🎓 Learning new programming languages and technologies
-- 🤖 Building robots to help me with my daily tasks
-- 📚 Improving my knowledge in microservices
+- 🛠️ Hands-on engineering across .NET/C# backends, React interfaces, and third-party integrations.
+- 🧩 Architecture and data modeling for multi-tenant SaaS, asynchronous services, and real-time features.
+- 🤝 Technical leadership through architecture decisions, prioritization, code reviews, and mentoring.
+- 🤖 Practical use of AI in software development, helping the team improve delivery through mentoring.
 
 #### Certifications:
 
@@ -17,10 +19,19 @@ Just a guy who is always looking for new challenges and interested in understand
 
 #### Contact information:
 
-- Email: `gbl.grassi <at> gmail.com`
+- Email: [gbl.grassi \<at\> gmail.com](mailto:gbl.grassi@gmail.com)
 - Discord: `garbage#0538`
 
-#### Some stuff I'm familiar with:
+#### Core technologies & practices:
+
+- **Backend:** .NET C#, Node.js
+- **Frontend:** TypeScript, React, Next.js, Vue.js
+- **Data:** SQL Server, PostgreSQL, Redis, MongoDB
+- **Cloud & delivery:** Azure, Docker, CI/CD, Jenkins
+- **Quality:** Unit, integration, E2E testing
+- **Technical leadership:** Architecture decisions, technical planning, mentoring, code reviews
+
+#### Other technologies I'm familiar with:
 
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" /></a>
